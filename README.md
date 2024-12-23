@@ -6,14 +6,20 @@ Este repositório demonstra como utilizar o Azure Machine Learning e os Azure Co
 
 
 # Tecnologias Utilizadas
-Azure Machine Learning
-    Azure Cognitive Services:
+    Azure AI Services:
+    
 Face API (Detecção Facial)
+![exemploFace](exemplo-2.png)
+
+
 Computer Vision API (Análise de Imagem e OCR)
 # Funcionalidades
     1. Detecção Facial
 Objetivo: Identificar rostos em imagens e vídeos.
 Uso: Segurança, personalização e análise de emoções.
+
+
+
     2. OCR (Reconhecimento Óptico de Caracteres)
 Objetivo: Extrair texto de imagens.
 Uso: Digitalização de documentos e acessibilidade.
