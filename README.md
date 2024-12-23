@@ -1,14 +1,12 @@
 # Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
-Este repositório demonstra como utilizar o Azure Machine Learning e os Azure Cognitive Services para realizar Detecção Facial, Reconhecimento Óptico de Caracteres (OCR) e Análise de Imagem. O objetivo é aplicar essas tecnologias para extrair informações de imagens de maneira automatizada.
-![exemploUM](exemplo-1.png)
+Este repositório demonstra como utilizar o Azure Machine Learning e os Azure AI Services para realizar Detecção Facial, Reconhecimento Óptico de Caracteres (OCR) e Análise de Imagem. O objetivo é aplicar essas tecnologias para extrair informações de imagens de maneira automatizada.
 
 
 
 # Tecnologias Utilizadas
-    Azure AI Services:
     
-Face API (Detecção Facial)
+    Face API (Detecção Facial)
 ![exemploFace](exemplo-2.png)
 
 
