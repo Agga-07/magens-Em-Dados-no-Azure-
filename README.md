@@ -2,4 +2,5 @@
 
   O exemplo demonstra como usar a de Detecção Facial do Azure para detectar e enquadrar rostos em uma imagem no vision Studio:
 
-![Detecçao](exemplo-1)
+![exemploUM](exemplo-1.png)
+
